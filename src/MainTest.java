@@ -56,5 +56,4 @@ class MainTest {
         assertEquals(-9, Main.roundNegativeValueToNearestInteger(-8.5));
     }
 
-
 }
